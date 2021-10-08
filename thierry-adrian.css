@@ -1,0 +1,69 @@
+body {
+  background : url(img/tissu-lin-lave.jpg) repeat 8%;
+  font-family: "Quicksand", sans-serif;
+}
+
+/* XXXXXXXXXXXXXXX HEADER XXXXXXXXXXXXXXX */
+
+.p1 {
+  margin: 10px auto 10px auto;
+  text-align: center;
+  font-size: 14px;
+  font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: 32px;
+}
+
+div {
+  width: 140px;
+  height: 100px;
+  margin: 40px auto 0 auto;
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+.cita {
+  width: 70%;
+  font-family: "Garamond", serif;
+  align-items: center;
+  font-size: 18px ;
+  flex-direction: column;
+  margin-top: 0;
+  margin-bottom: 100px
+}
+
+cite {
+  width: 100%;
+  justify-content: center;
+  }
+
+#lenom {
+  /*width: %;*/
+  margin-top: 0;
+  text-align: end;
+}
+
+/* XXXXXXXXXXXXXXX MAIN XXXXXXXXXXXXXXX */
+
+main {
+  font-size: 20px;
+}
+
+p {
+  margin-left:auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  width: 70%;
+  text-align: justify;
+}
+
+address {
+  text-align: center;
+  margin-top: 60px;
+}
